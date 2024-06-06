@@ -1,0 +1,30 @@
+[
+  {
+    "productId": 1,
+    "productName": "Ford",
+    "productDescription": "Racing car",
+    "productImage": null,
+    "isActive": false
+  },
+  {
+    "productId": 2,
+    "productName": "Ford 1",
+    "productDescription": "Racing car",
+    "productImage": null,
+    "isActive": true
+  },
+  {
+    "productId": 3,
+    "productName": "Ford 3",
+    "productDescription": "Racing car",
+    "productImage": null,
+    "isActive": true
+  },
+  {
+    "productId": "4",
+    "productName": "Ford car FLIGHT 3",
+    "productDescription": "Racing car",
+    "productImage": "/public/images/8b5d9cc4-993e-4906-b9b4-246dba50d3db-d.jpeg",
+    "isActive": true
+  }
+]
